@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-👩🏻‍💻 Currently learning in Bangkit Academy 2022 in Machine Learning class
-🏫 Third year informatics student at Universitas Persada Indonesia Y.A.I
-⚡ Fun fact: A cat person, loves and acts like a cat lol
-📫 Reach me in the same username at Instagram, Twitter, Telegram, and Dicoding!
-💬 Will add another words here soon, as I'm progressing in something interesting
+👩🏻‍💻 Currently learning in Bangkit Academy 2022 in Machine Learning class  
+🏫 Third year informatics student at Universitas Persada Indonesia Y.A.I  
+⚡ Fun fact: A cat person, loves and acts like a cat lol  
+📫 Reach me in the same username at Instagram, Twitter, Telegram, and Dicoding!  
+💬 Will add another words here soon, as I'm progressing in something interesting  
 
 <!--
 **aliifnrhmn/aliifnrhmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
