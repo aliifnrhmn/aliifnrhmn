@@ -4,7 +4,7 @@
 🏫 Third year informatics student at Universitas Persada Indonesia Y.A.I  
 ⚡ Fun fact: A cat person, loves and acts like a cat lol  
 📫 Reach me in the same username at Instagram, Twitter, Telegram, and Dicoding!  
-💬 Will add another words here soon, as I'm progressing in something interesting  
+💬 Will add another words here soon, as I'm progressing in something interesting :D  
 
 <!--
 **aliifnrhmn/aliifnrhmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
