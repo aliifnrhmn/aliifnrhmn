@@ -6,7 +6,7 @@
 🏫 Final year informatics student at Universitas Persada Indonesia Y.A.I  
 ⚡ Fun fact: A cat person, loves and acts like a cat lol  
 📫 Reach me in the same username at Instagram, Twitter, and Telegram!  
-🌱 I’m currently learning how to build SVM ML model
+🌱 I’m currently learning how to build SVM ML model  
 💬 Will add another words here soon, as I'm progressing in something interesting :D  
 
 <!--
