@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-👩🏻‍💻 Currently learning in Bangkit Academy 2022 in Machine Learning class  
-🏫 Third year informatics student at Universitas Persada Indonesia Y.A.I  
+👩🏻‍💻 Bangkit Academy 2022 graduate in Machine Learning class  
+:star_struck: I graduated as a distinction graduate!  
+:star2: Our project [Yourney](https://github.com/Vanz-Noob/Yourney-Bangkit-Project-Caps) is one of 15 best product capstone projects on Bangkit!  
+🏫 Final year informatics student at Universitas Persada Indonesia Y.A.I  
 ⚡ Fun fact: A cat person, loves and acts like a cat lol  
-📫 Reach me in the same username at Instagram, Twitter, Telegram, and Dicoding!  
+📫 Reach me in the same username at Instagram, Twitter, and Telegram!  
+🌱 I’m currently learning how to build SVM ML model
 💬 Will add another words here soon, as I'm progressing in something interesting :D  
 
 <!--
